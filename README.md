@@ -1,3 +1,6 @@
+
+![bmi_calculator](https://github.com/priyanshp28/bmiCalculator/assets/96482342/368adc14-4d1f-4b7e-a3a3-cc3e55591ddd)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
